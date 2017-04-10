@@ -4,7 +4,7 @@
 ![相关截图](screenshot/maoyan.png)
 #### 源码简介
 ```tree
-Demo
+app
 ├── LICENSE
 ├── README.md
 ├── app.js
