@@ -3,26 +3,27 @@
 #### 截图
 ![相关截图](screenshot/maoyan.png)
 #### 源码简介
+
 ```tree
 app
-├── LICENSE
-├── README.md
+├── common
+├── img
+├── pages
+├── utils
+├── vendor
 ├── app.js
 ├── app.json
-├── bower.json
-├── config.js
+├── app.wxss
+└── config.js
+server
+├── db
+├── node_modules
+├── public
+├── schemas
+├── views
 ├── package.json
-├── pages
-│   ├── chat
-│   │   ├── chat.js
-│   │   ├── chat.wxml
-│   │   └── chat.wxss
-│   └── index
-│       ├── index.js
-│       ├── index.wxml
-│       └── index.wxss
-└── vendor
-    └── qcloud-weapp-client-sdk/
+└── server.js
+
 ```
 
 
